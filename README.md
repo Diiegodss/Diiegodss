@@ -11,9 +11,17 @@
 
 ## 👨‍💻 Sobre mim
 
-Atualmente, sou estudante de Ciência da Computação na Universidade de Brasília (UnB) e atuo como Estagiário de Tecnologia no Ministério da Integração e Desenvolvimento Regional (MIDR). Sou movido pela curiosidade tecnológica e por construir soluções que tragam resultados consistentes.
+## 👨‍💻 Sobre mim
 
-Tenho um forte interesse em automação de processos, web scraping e integração de bancos de dados explorando a fundo o ecossistema Python (utilizando bibliotecas como Selenium, PyAutoGUI, Pandas e SQLite). Além disso, dedico parte do meu tempo à construção de projetos web pessoais e funcionais, desenhando interfaces estruturadas com HTML, CSS e JavaScript.
+Sou estudante de Computação na Universidade de Brasília (UnB) e atuo como Estagiário de TI no Ministério da Integração e Desenvolvimento Regional (MIDR), onde trabalho com análise de dados, vetorização e geomapeamento de áreas pelo Brasil para o projeto Água Doce. 
+
+Minha base profissional foi construída ao longo de dois anos no TRF1, focada na gestão de dados documentais, criação de painéis no Power BI e automação de rotinas utilizando Power Automate. Tenho maior domínio em **Python e Power BI**, e aplico meus conhecimentos em **HTML, CSS, JavaScript e SQL** para gerir grandes volumes de informação e estruturar projetos web.
+
+Gosto de colocar a mão na massa organizando e validando dados, testando automações e desenhando interfaces. Mais do que escrever código, minha verdadeira paixão na tecnologia é criar projetos que realizem os sonhos das pessoas e entreguem soluções que gerem gratidão e impacto real em suas vidas.
+
+Estou no GitHub para construir um networking sólido em dados e desenvolvimento, compartilhar conhecimento e me envolver em novos projetos, eventos e palestras. Sou movido pelo aprimoramento contínuo e estou aberto a novas oportunidades profissionais — seja aqui, em outros estados ou até mesmo fora do país.
+
+*(Fora das telas, divido meu tempo entre a vida com minha esposa Ana Júlia, estudos e de vez em quando uma jogatina com os amigos).*
 
 <br/>
 
@@ -25,7 +33,7 @@ Tenho um forte interesse em automação de processos, web scraping e integraçã
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF00AA" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=8A2BE2" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF00AA" alt="PowerBI" />
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF00AA" alt="Power BI" />
 </div>
 
 <br/>
