@@ -17,7 +17,7 @@ Minha base profissional foi construída ao longo de dois anos no TRF1, focada na
 
 Gosto de colocar a mão na massa organizando e validando dados, testando automações e desenhando interfaces. Mais do que escrever código, minha verdadeira paixão na tecnologia é criar projetos que realizem os sonhos das pessoas e entreguem soluções que gerem gratidão e impacto real em suas vidas.
 
-Estou no GitHub para construir um networking sólido em dados e desenvolvimento, compartilhar conhecimento e me envolver em novos projetos, eventos e palestras. Sou movido pelo aprimoramento contínuo e estou aberto a novas oportunidades profissionais — seja aqui, em outros estados ou até mesmo fora do país.
+Estou no GitHub para construir um networking sólido em dados e desenvolvimento, compartilhar conhecimento e me envolver em novos projetos, eventos e palestras. Sou movido pelo aprimoramento contínuo e estou aberto a novas oportunidades profissionais seja aqui, em outros estados ou até mesmo fora do país.
 
 *(Fora das telas, divido meu tempo entre a vida com minha esposa Ana Júlia, estudos e de vez em quando uma jogatina com os amigos).*
 
