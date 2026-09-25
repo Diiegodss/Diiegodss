@@ -105,9 +105,6 @@ Sistema web para gerenciamento visual de fluxo de trabalho baseado na metodologi
   <a href="https://www.linkedin.com/in/diego-sousa-092380262" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/Diegodss_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00AA" alt="Instagram"/>
-  </a>
 </div>
 
 <br/>
