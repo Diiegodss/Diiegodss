@@ -11,8 +11,6 @@
 
 ## 👨‍💻 Sobre mim
 
-## 👨‍💻 Sobre mim
-
 Sou estudante de Computação na Universidade de Brasília (UnB) e atuo como Estagiário de TI no Ministério da Integração e Desenvolvimento Regional (MIDR), onde trabalho com análise de dados, vetorização e geomapeamento de áreas pelo Brasil para o projeto Água Doce. 
 
 Minha base profissional foi construída ao longo de dois anos no TRF1, focada na gestão de dados documentais, criação de painéis no Power BI e automação de rotinas utilizando Power Automate. Tenho maior domínio em **Python e Power BI**, e aplico meus conhecimentos em **HTML, CSS, JavaScript e SQL** para gerir grandes volumes de informação e estruturar projetos web.
